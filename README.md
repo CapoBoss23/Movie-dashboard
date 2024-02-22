@@ -22,9 +22,6 @@ Movie_dashboard, a Jupyter Notebook that shows useful info IN ITALIAN about cine
     <li>
         <a href="#prerequisites">Prerequisites</a>
    </li>
-   <li> 
-        <a href="#getting-started">Getting Started</a>
-    </li>
     <li>
         <a href="#creators">Creators</a>
     </li>
