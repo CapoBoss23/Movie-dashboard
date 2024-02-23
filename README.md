@@ -1,10 +1,9 @@
 # Movie_Dashboard
-
+## ATTENTION! THIS REPOSITORY IS ARCHIVED. FEEL FREE TO FORK IF YOU WANT: GIVE CREDIT TO THE ORIGINAL PROJECT
 Movie_dashboard, a Jupyter Notebook that shows useful info IN ITALIAN about cinema industry of period between 1984 and 2020.
 
 ![Movie_dashboard](/images/Movie_dashboard.png)
 
-## ATTENTION! THIS REPOSITORY IS ARCHIVED. FEEL FREE TO FORK IF YOU WANT: GIVE CREDIT TO THE ORIGINAL PROJECT
 
 <!-- TABLE OF CONTENTS -->
 <details>
