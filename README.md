@@ -105,13 +105,13 @@ There are 6 plot in this dashboard:
   <br>
   ![4](/images/4.png)
   <br>
-  Shows time evolution of average profit per film. Highlight the profit trend by comparing 3 companies.
+  Show rating distribution of film production of 3 companies by category. Highlights quantitative comparisons between category for selected companies.
 
 * Choice of maximum 3 production companies
   <br>
   ![5](/images/5.png)
   <br>
-  Show rating distribution of film production of 3 companies by category. Highlights quantitative comparisons between category for selected companies.
+  
 
 <!-- SOURCES -->
 ## Sources:
