@@ -111,7 +111,7 @@ There are 6 plot in this dashboard:
   <br>
   ![5](/images/5.png)
   <br>
-  
+  Shows runtime time series of different movie genres. Highlight the trend and allows qualitative comparison.
 
 <!-- SOURCES -->
 ## Sources:
